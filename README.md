@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fahim</h1>
+<h1>Hi, I'm Fahim 😁</h1>
 <h3>I love building web/js apps</h3>
 
 <p>Currently working as a software engineer from New York City</p>
@@ -21,7 +21,7 @@
 
 You can find more about me [here](https://codexi.com) and my [blog](https://codexi.com/blog).
 
-I [tweet](https://twitter.com/fahimnur_alam) (mostly cool stuff) occassianaly. You can also connect with me over at [LinkedIn](https://www.linkedin.com/in/fahimnuralam/).
+I [tweet](https://twitter.com/fahimnur_alam) occasionally. You can also connect with me over at [LinkedIn](https://www.linkedin.com/in/fahimnuralam/).
 
 <!--
 **fa137/fa137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
