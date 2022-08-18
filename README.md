@@ -1,4 +1,4 @@
-<h1>Hi, I'm Fahim 😁</h1>
+<h1>Hi, I'm Fahim 🧬</h1>
 <h3>I love building web/js apps</h3>
 
 <p>Currently working as a software engineer from New York City</p>
