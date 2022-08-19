@@ -1,7 +1,9 @@
-<h1>Hi, I'm Fahim 🧬</h1>
-<h3>I love building web/js apps</h3>
+<h2>Hi, I'm Fahim 🧬</h2>
+<h4>I love building web/js apps</h4>
 
 <p>Currently working as a software engineer from New York City</p>
+
+<samp>
 
 <h4>interests</h4>
 
@@ -11,6 +13,7 @@
 - realtime data processing (augmented reality)
 - helping others to become better engineers
 
+</samp>
  
 &nbsp;
 &nbsp;
@@ -18,7 +21,7 @@
 
 
 
-
+ 
 You can find more about me [here](https://codexi.com) and my [blog](https://codexi.com/blog).
 
 I [tweet](https://twitter.com/fahimnur_alam) occasionally. You can also connect with me over at [LinkedIn](https://www.linkedin.com/in/fahimnuralam/).
