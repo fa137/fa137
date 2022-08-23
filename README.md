@@ -3,17 +3,6 @@
 
 <p>Currently working as a software engineer from New York City</p>
 
-<samp>
-
-<h4>interests</h4>
-
-- making our day to day life easier through software so we can worry about more important things in our lives
-- develop apps that will help us understand complex data
-- increase efficiency of complex tasks (surgery, disease detection, risk assessment, climate change)
-- realtime data processing (augmented reality)
-- helping others to become better engineers
-
-</samp>
  
 &nbsp;
 &nbsp;
