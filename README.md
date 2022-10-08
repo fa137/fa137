@@ -11,7 +11,7 @@
 
 
  
-You can find more about me [here](https://codexi.com) and my [blog](https://codexi.com/blog).
+You can find more about me [here](https://codexi.com).
 
 I [tweet](https://twitter.com/fahimnur_alam) occasionally. You can also connect with me over at [LinkedIn](https://www.linkedin.com/in/fahimnuralam/).
 
